@@ -1,3 +1,5 @@
+> **Status: early prototype.** This repository currently contains initial bridge work, not a complete native iOS application. The features described below are the intended direction, not a list of verified shipped capabilities. Related [experiments and notes](https://github.com/Yasuui/Yasuui/tree/main/lab).
+
 # Hermes Mobile
 
 **A premium, native iOS experience for Hermes AI agents**
